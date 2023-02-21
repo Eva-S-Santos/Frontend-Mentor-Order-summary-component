@@ -163,12 +163,12 @@ color: var(--Dark-blue);
 
     .card-body{
         max-width: 430px;
-        border-radius: 15px;
+        border-radius: 20px;
     }
 
     .illustration img{
-        border-top-right-radius: 15px;
-        border-top-left-radius: 15px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
     }
 
     .order-container{
